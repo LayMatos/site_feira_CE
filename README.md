@@ -2,8 +2,6 @@
 
 Landing page do maior evento de empreendedorismo e inovação do Ceará. Desenvolvida com React, TypeScript e Tailwind CSS v4.
 
-**Evento:** 8 a 10 de Outubro de 2026 · Centro de Eventos do Ceará · Fortaleza, CE
-
 ---
 
 ## Preview
@@ -147,6 +145,3 @@ BASE_URL=http://localhost:5175 node scripts/capture-screenshots.mjs
 
 ---
 
-## Licença
-
-Projeto privado — Feira de Empreendedorismo e Inovação do Ceará © 2026
